@@ -1,0 +1,50 @@
+.heading{
+    margin: 0;
+    background-color: coral;
+    box-shadow: 5px 5px 5px grey;
+    font-size: 31px;
+    width: 100%;
+}
+
+#start , #number_of_objects , #status {
+    box-shadow: 5px 5px 5px grey;
+    background-color: seagreen;
+    font-size: 24px;
+    font-weight: bolder;
+    color: lightgreen;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#head{
+    box-shadow: 5px 5px 5px grey;
+    background-color: rgb(140, 230, 179);
+    font-size: 24px;
+    font-weight: bolder;
+    color: rgb(255, 66, 66);
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 20px; 
+    width: 370px;
+    text-align: center;
+}
+
+.end_footer{
+    position: fixed;
+    color: indianred;
+    bottom: 0%;
+    width: 100%;
+    background-color: ivory;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: lightpink;
+    border-radius: 20px;
+    border-style: ridge;
+    border-width: 5px;
+    box-shadow: lightseagreen 5px 5px 5px;
+    margin-top: 110px;
+}
